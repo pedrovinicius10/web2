@@ -1,0 +1,9 @@
+Senhores,
+
+Enviar um arquivo txt contendo o endereço do seu projeto no Github contendo a resolução dos exercícios da lista em anexo.
+
+Nesse arquivo, informar a(s) controllers utilizadas para facilitar a correção.
+
+Atenciosamente,
+
+Orion Teles.
